@@ -1,6 +1,6 @@
 # NHSD - User Research Panels
 
-**Project Context:**
+**Project context:**
 - NHS Digital has conducted over 600 surveys in the past few years using the survey tool Qualtrics.
 - The organisation has established mulitple research panel, with over 500,000 participants signing up.
 - Access to qualified participants has been fundamental to the success of user research projects across multiple programmes in NHSD and our health partner organisations (e.g. DHSC, UKHSA, NHSE)
