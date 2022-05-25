@@ -3,8 +3,8 @@
 Terms of reference (early draft v0.0.1)
 
 **Project context:**
-- NHS Digital has conducted over 600 surveys in the past few years using the survey tool Qualtrics.
-- The organisation has established mulitple research panels, with over 500,000 participants signing up.
+- NHS Digital has conducted over 600 surveys in the past few years (using the survey tool Qualtrics)
+- The organisation has established mulitple research panels, with over 500,000 participants signing up
 - Access to qualified participants has been fundamental to the success of user research projects across NHSD and our health partner organisations (e.g. DHSC, UKHSA, NHSE)
 
 
@@ -28,4 +28,4 @@ Terms of reference (early draft v0.0.1)
 
 **Privacy note** 
 - Working in the open is the best way to collaborate with colleagues across departments
-- No personal information is to be shared within this github repository 
+- No personal information (or sensitive information) is to be shared within this github repository 
