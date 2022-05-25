@@ -1,4 +1,4 @@
-# NHSD - User Research Panels
+# NHS - User Research Panels
 
 Terms of reference (early draft v0.0.1). To be reviewed after the kick off workshop on June 8th
 
