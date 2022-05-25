@@ -1,6 +1,6 @@
 # NHSD - User Research Panels
 
-Terms of reference (early draft v0.0.1). To be reviewed after the kick off workshop
+Terms of reference (early draft v0.0.1). To be reviewed after the kick off workshop on June 8th
 
 **Project context:**
 - NHS Digital has conducted over 600 surveys in the past few years (using the survey tool Qualtrics)
