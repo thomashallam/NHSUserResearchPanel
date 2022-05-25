@@ -6,7 +6,7 @@
 - Access to qualified participants has been fundamental to the success of user research projects across multiple programmes in NHSD and our health partner organisations (e.g. DHSC, UKHSA, NHSE)
 
 
-**Project challenges:**
+**Project assumptions:**
 - Teams have collected different data when users opt-in, depending on their local project needs
 - It can be difficult to find appropriate users as data filters do not match up across teams
 - Some participants have joined several panels, which means there may be a data mismatch
