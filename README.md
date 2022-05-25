@@ -12,7 +12,7 @@ It can be difficult to find appropriate users as data filters do not match up ac
 Some participants have joined several panels, which means there may be a data mismatch
 It is difficult to know which data is accurate and which data should be archived
 
-**The goal of this project is to: **
+**The goal of this project is to:**
 * Improve the management of research panels across NHSD
 * Understand what data has been collected about our users
 * Learn how the survey demographic questions have been iterated over time
