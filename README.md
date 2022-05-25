@@ -1,5 +1,7 @@
 # NHSD - User Research Panels
 
+Terms of reference (early draft v0.0.1)
+
 **Project context:**
 - NHS Digital has conducted over 600 surveys in the past few years using the survey tool Qualtrics.
 - The organisation has established mulitple research panels, with over 500,000 participants signing up.
@@ -13,11 +15,11 @@
 - It is difficult to know which data is accurate and which data should be archived
 
 **The goal of this project is to:**
-- Improve the management of research panels across NHSD
+- Improve the management of research panels across the NHS
 - Understand what data has been collected about our users 
-- Document UR panel demographic patterns
+- Document UR panel & demographic patterns
 - Learn how the survey demographic questions have been iterated over time
-- Collaborate towards agreeing an updaed baseline set of questions for the (citizen) research panel 
+- Collaborate towards agreeing an updated baseline set of questions for the (citizen) research panel 
 
 
 **To get started, check the backlog of activities here:**
