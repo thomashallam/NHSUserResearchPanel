@@ -22,8 +22,9 @@ Terms of reference (early draft v0.0.1). To be reviewed after the kick off works
 - Collaborate towards agreeing an updated baseline set of questions for the (citizen) research panel 
 
 
-**To get started, check the backlog of activities here:**
-- https://github.com/thomashallam/UserResearchPanel/issues
+**To get started:**
+- Say hi and introduce yourself here: https://github.com/thomashallam/UserResearchPanel/issues/22
+- Check the backlog of activities here: https://github.com/thomashallam/UserResearchPanel/issues
 
 
 **Privacy note** 
