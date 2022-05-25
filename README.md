@@ -1,1 +1,1 @@
-# UserResaerchPanel
+# UserResearchPanel
