@@ -14,6 +14,7 @@
 
 **The goal of this project is to:**
 - Improve the management of research panels across NHSD
-- Understand what data has been collected about our users
+- Understand what data has been collected about our users 
+- Document UR panel demographic patterns
 - Learn how the survey demographic questions have been iterated over time
 - Collaborate towards agreeing an updaed baseline set of questions for the (citizen) research panel 
