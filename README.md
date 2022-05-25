@@ -2,6 +2,8 @@
 
 Terms of reference (early draft v0.0.1). To be reviewed after the kick off workshop on June 8th
 
+For questions about this project email Tom: thomas.hallam@nhs.net
+
 **Project context:**
 - NHS Digital has conducted over 600 surveys in the past few years (using the survey tool Qualtrics)
 - The organisation has established mulitple research panels, with over 500,000 participants signing up
