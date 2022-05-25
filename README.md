@@ -25,5 +25,5 @@
 
 
 **Privacy note** 
-- working in the open is the best way to collaborate with colleagues across departments
+- Working in the open is the best way to collaborate with colleagues across departments
 - No personal information is to be shared within this github repository 
