@@ -3,7 +3,7 @@
 ## What is a research panel?
 
 Any list of contacts (e.g. names and email addresses) that may be used for research purposes, could be considered a research panel.
-Research panel can be set up for a specific research projects, or to enable ongoing research engagement across several teams/programmes/organisations.  
+Research panel can be set up for a specific research projects, or to enable ongoing research engagement across several teams/programmes/organisations.
 
 ## Should we set up a research panel?
 
@@ -17,12 +17,14 @@ Research panel can be set up for a specific research projects, or to enable ongo
   - Can integrate sign-up processes with user journey
 
 - **Things to consider first:**
-  - Effort required to set up panel
-  - Required software / tooling
-  - Information governance / data security
+  - Time needed to set up and manage a panel
+  - Software & tooling requirements
+  - Information governance / data privacy / security
   - Ongoing maintenance of the panel
+  - Who will book participants for research
+  - Re-ops training for researchers (and colleagues)
   - Communication plan / user engagement
-  - Incentivisation approach
+  - Incentivisation approach, budgeting
   
 ## Principles of Good Panel managment
 
@@ -35,6 +37,72 @@ There are key principles that apply to ensure good practice, such as
   - any panel member can ask for a copy of their own data (e.g. a subject access request)
   - participants can be asked to be delete from the panel at any time
   - **No (data) duplication**: all data should only be stored in one place
-  - Data archiving
+  - **Data refresh**
+  - **Data archiving**
 
 ## How to set up a panel
+
+Typically a list of respondents for a survey, who have additionally opted in to join a panel for future research
+
+**Private panel**
+This is most common in the research industry:
+- a spreadsheet / database of members
+- usage of a crm/mailing system
+- custom panel / tools
+- How it works:
+  - Participants are segmented and sampled
+  - Those selected are individually invited to the research project
+  - Participants are often limited to how many projects they can take part in
+  - Participants may receive an incentive per project, or after completing several tasks
+
+**Open panel / communities**
+Historically known as "market research online communities" MROCs. This method is less commonly used, however, some customer-centric organisations have grown significantly due to their advid user-engagement and the insights generated in their communities.
+
+- **Benefits:**
+  - Most open and transparent form of user and community engagement
+  - Grass-roots level thinking, online
+  - Most detailed insights / discussions
+  - Diverse audeiences: appeals to younger users and not just typical research participants
+  - Through sentiment analytics, trends can be identified
+  
+- **Cautions:**
+  - Highly resource intensive to manage
+  - Often large amounts of unstructured data which are difficult to analyse
+  - Discussions can spiral out of control
+  - Risk of intellectual property loss
+  - Not appropriate for more sensitive topics
+
+- **How it works:**
+  - anyone in the open panel can message anyone else
+  - moderator is required for checking all content
+  - faciltation required for prompting/guiding discussions
+  - usually a time-based incentive for members (e.g. 3 month period)
+  - or sometimes microincentives for ongoing participation
+
+- **Interesting case studies**
+  - Market Reearch Society: Customer Inside - A Practitioners guide to online communities: https://www.mrs.org.uk/pdf/CUSTOMER_INSIDE.pdf (Published June 2018, Accessed: June 2022)
+
+## Terminology
+
+**Segment/segmentation**: Creating groups of users with specific characteristics. e.g. "people who visited their GP within the last 6 months", "parents between the age 20-40, who are also vaccinated". **When to do this?**: this process helps to ensure representation from key groups who are likely to use a service, as well as groups the team assumes may struggle when using the service
+
+**Sampling**: The process of selecting a sub-set of the users from the panel e.g. of the 1,000 users on the panel the team want to speak with a randomly-selected sample of 10.
+
+**Sample criteria**: A brief for which participants can be recruited. The sample criteria may include multiple segments that need to be balanced by the recruiter.
+E.g. team want to speak to 10 people, including a mix of genders, from a variety of age groups, and split across the regions in UK (Scotland, Northern Ireland, Wales, England).
+
+
+## Tools for panel communication and engagement
+- *MVP* - spreadsheets (and mail merge!)
+- market research online community tools (MROC)
+- customer insight community tools
+- CRM / Campaign management tools
+- survey tools (Voice of the Customer)
+- Q&A and polling apps
+- video blogging tools
+- social-media communities (public or private pages/groups)
+- online forum tools (e.g. public or private messaging boards)
+- private instant messaging tools
+- blogging tools (public or private)
+- online collaboration tools
+- online document tools
