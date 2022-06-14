@@ -26,9 +26,9 @@ For questions about this project email Tom: thomas.hallam@nhs.net
 
 **To get started:**
 - Say hi and introduce yourself here: https://github.com/thomashallam/UserResearchPanel/issues/22
-- Check the backlog of activities here: https://github.com/thomashallam/UserResearchPanel/issues
+- View the backlog of activities here: https://github.com/thomashallam/UserResearchPanel/issues
+- Review the panel guidelines: https://github.com/thomashallam/UserResearchPanel/Content/panel-guidelines.md 
 
-
-**Privacy note** 
+**Contributors note** 
 - Working in the open is the best way to collaborate with colleagues across departments
 - No personal information (or sensitive information) is to be shared within this github repository 
