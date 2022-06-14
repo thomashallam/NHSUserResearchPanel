@@ -27,7 +27,7 @@ For questions about this project email Tom: thomas.hallam@nhs.net
 **To get started:**
 - Say hi and introduce yourself here: https://github.com/thomashallam/UserResearchPanel/issues/22
 - View the backlog of activities here: https://github.com/thomashallam/UserResearchPanel/issues
-- Review the panel guidelines: https://github.com/thomashallam/UserResearchPanel/Content/panel-guidelines.md 
+- Review the panel guidelines: https://github.com/thomashallam/UserResearchPanel/blob/main/Content/panel-guidelines.md
 
 **Contributors note** 
 - Working in the open is the best way to collaborate with colleagues across departments
