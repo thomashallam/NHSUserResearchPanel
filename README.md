@@ -6,8 +6,8 @@ For questions about this project email Tom: thomas.hallam@nhs.net
 
 **Project context:**
 - NHS Digital has conducted over 600 surveys in the past few years (using the survey tool Qualtrics)
-- The organisation has established mulitple research panels, with hundreds of thousands of participants signing up
-- Access to qualified participants has been fundamental to the success of user research projects across NHSD and our health partner organisations (e.g. DHSC, UKHSA, NHSE)
+- The organisation has established mulitple user research panels (contact lists), with hundreds of thousands of participants signing up.
+- Access to panel participants has been fundamental to the success of user research projects across both NHS Digital and our health partner organisations (e.g. DHSC, UKHSA, NHSE)
 
 
 **Known pain points:**
