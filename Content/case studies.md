@@ -21,6 +21,12 @@
   + Published: 16 April 2021
 <br>
 
+* **Managing a User Research Panel**
+  + Author: Jeanette Fuccella
+  + Link: https://medium.com/lexisnexis-design/managing-a-user-research-panel-8b717ebeda47
+  + Published: 29 July 2020
+<br>
+
 
 * **User research panel: help us to help you**
   + Author: Sarah Combstock, Companies House
@@ -71,11 +77,9 @@
 <br>
 
 
-* **Title**
-  + Author:  
-  + Link: 
-  + Published: 
-<br>
+
+---
+Template (Copy):
 
 * **Title**
   + Author:  
