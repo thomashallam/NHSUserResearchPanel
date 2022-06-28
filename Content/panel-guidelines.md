@@ -1,5 +1,7 @@
 # Research panel guidelines
 
+<a href="https://github.com/thomashallam/NHSUserResearchPanel/blob/main/README.md#L1">< Back to overview</a>
+
 ## What is a research panel?
 
 Any list of contacts (e.g. names and email addresses) that may be used for research purposes, could be considered a research panel.

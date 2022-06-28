@@ -1,5 +1,7 @@
 # Research panel guidelines
 
+<a href="https://github.com/thomashallam/NHSUserResearchPanel/blob/main/README.md#L1">< Back to overview</a>
+
 ## Terminology
 
 **Segment/segmentation**: Creating groups of users with specific characteristics. e.g. "people who visited their GP within the last 6 months", "parents between the age 20-40, who are also vaccinated". **When to do this?**: this process helps to ensure representation from key groups who are likely to use a service, as well as groups the team assumes may struggle when using the service

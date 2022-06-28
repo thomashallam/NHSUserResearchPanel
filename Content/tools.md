@@ -1,5 +1,7 @@
 # Research panel guidelines
 
+<a href="https://github.com/thomashallam/NHSUserResearchPanel/blob/main/README.md#L1">< Back to overview</a>
+
 ## Tools for panel management, communication and member engagement
 - *MVP* - spreadsheets (and mail merge!)
 - market research online community tools (MROC)
