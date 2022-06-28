@@ -3,6 +3,7 @@
 ## What is a research panel?
 
 Any list of contacts (e.g. names and email addresses) that may be used for research purposes, could be considered a research panel.
+
 Research panel can be set up for a specific research projects, or to enable ongoing research engagement across several teams/programmes/organisations.
 
 ## Should we set up a research panel?
@@ -44,11 +45,11 @@ There are key principles that apply to ensure good practice, such as
 
 Typically a list of respondents for a survey, who have additionally opted in to join a panel for future research
 
-**Private panel**
+**Closed / Private panel**
 This is most common in the research industry:
-- a spreadsheet / database of members
-- usage of a crm/mailing system
-- custom panel / tools
+- often a spreadsheet (or database) of members
+- use of a crm / mailing system
+- use bespoke panel tools
 - How it works:
   - Participants are segmented and sampled
   - Those selected are individually invited to the research project
@@ -81,28 +82,3 @@ Historically known as "market research online communities" MROCs. This method is
 
 - **Interesting case studies**
   - Market Reearch Society: Customer Inside - A Practitioners guide to online communities: https://www.mrs.org.uk/pdf/CUSTOMER_INSIDE.pdf (Published June 2018, Accessed: June 2022)
-
-## Terminology
-
-**Segment/segmentation**: Creating groups of users with specific characteristics. e.g. "people who visited their GP within the last 6 months", "parents between the age 20-40, who are also vaccinated". **When to do this?**: this process helps to ensure representation from key groups who are likely to use a service, as well as groups the team assumes may struggle when using the service
-
-**Sampling**: The process of selecting a sub-set of the users from the panel e.g. of the 1,000 users on the panel the team want to speak with a randomly-selected sample of 10.
-
-**Sample criteria**: A brief for which participants can be recruited. The sample criteria may include multiple segments that need to be balanced by the recruiter.
-E.g. team want to speak to 10 people, including a mix of genders, from a variety of age groups, and split across the regions in UK (Scotland, Northern Ireland, Wales, England).
-
-
-## Tools for panel communication and engagement
-- *MVP* - spreadsheets (and mail merge!)
-- market research online community tools (MROC)
-- customer insight community tools
-- CRM / Campaign management tools
-- survey tools (Voice of the Customer)
-- Q&A and polling apps
-- video blogging tools
-- social-media communities (public or private pages/groups)
-- online forum tools (e.g. public or private messaging boards)
-- private instant messaging tools
-- blogging tools (public or private)
-- online collaboration tools
-- online document tools
